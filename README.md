@@ -4,4 +4,5 @@ This program allows users to manage payroll. It will automatically calculate the
 
 How to use:
 1. Run the payroll program: payroll.py
-![alt text](https://github.com/gabrielzurc10/Payroll_App/blob/master//image.jpg?raw=true)
+
+![Login screen](https://github.com/gabrielzurc10/Payroll_App/blob/master/Screenshots/Login-screen.png?raw=true)
