@@ -1,6 +1,6 @@
 # Payroll-App
 
-This program allows the user to manage payroll. It will automatically calculate the net pay with user inputs. The program also allows users to add and remove employees from the system.
+This program allows the user to manage payroll. It will automatically calculate the net pay with user inputs. The program also allow users to add and remove employees from the system.
 
 How to use:
 1. Run the payroll program: payroll.py
